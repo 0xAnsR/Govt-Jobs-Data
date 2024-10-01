@@ -27,6 +27,50 @@ The revised Project Pay Scales (PPS) are as follows:
 
 Pakistan Agricultural Research Council (PARC), an apex research organization in the agriculture sector, invites applications from well-qualified, highly talented, and self-motivated Pakistani nationals for appointment on regular/contract basis against the following posts:
 
+
+
+
+# Job Posting
+
+## Careers
+
+### Vacancies
+- **Last Date:** 13 Oct 2024
+- **Number of Positions:** 1
+- **Age Limit:** Maximum 35
+
+### Qualification
+- **16 years of qualification** in Computer Science (CS), Information Technology (IT), Software Engineering (SE), Computer Engineering (CE), or a related discipline from an HEC-recognized institution  
+  **OR**  
+- **18 years of qualification** in the same fields from an HEC-recognized institution
+
+### Experience
+- Fresh graduates are welcome to apply.
+
+### Job Description
+- Complete the software lifecycle: scope, design, code, test, and implement.
+- Understand business requirements and convert them into solution designs.
+- Strong understanding of OOP concepts, RDBMS, ASP.NET Core, and Angular.
+- Good communication and coding skills.
+- Motivated, dependable, and responsible attitude.
+- Eager to learn new techniques.
+- Familiarity with Visual Studio and version control systems.
+- Prior experience as a Full Stack .NET Software Developer is preferred.
+- Liaise with internal teams (developers and managers) to meet system requirements and support tasks.
+- Develop and apply fixes to meet client needs.
+- Maintain a “can do” attitude and a willingness to excel.
+- Design, develop, and execute SQL scripts using SQL Server.
+- Constant communication with colleagues.
+- Review requirements, specifications, and technical design documents for timely feedback.
+- Estimate, prioritize, plan, and coordinate multiple activities.
+
+### Skills
+- **Languages & Technologies:** C#, .NET Core, Web API, HTML, CSS, JavaScript, jQuery, Angular
+
+---
+
+
+
 | Sl. | Post                                | SPS   | Age Limit | Vacancies | Place of Posting                       | Qualification / Experience & Other Requirements                                                                                               |
 |-----|-------------------------------------|-------|-----------|-----------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Assistant                           | SPS-07| 30 years  | 04        | PARC & NARC, Islamabad                | MBA / M.Sc / MA / LLB / BBA (Hons) / M.S or equivalent qualification in relevant discipline OR Bachelor Degree with 3 years relevant experience. Must have 1st division/grade B OR CGPA 2.50 or more. Proficiency in MS Office preferred. Must complete a 6-week basic IT training during probation. |
